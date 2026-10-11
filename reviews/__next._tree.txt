@@ -1,4 +1,4 @@
-:HL["/kynx-demo/_next/static/chunks/0ipc3ve8mtnzo.css","style"]
+:HL["/kynx-demo/_next/static/chunks/1xaj08dvpetv6.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"reviews","h":96,"c":"$Q2"}]]
-0:{"b":"LeQahAXtYkDn3mgkHE5Po","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"96eNNIjmykCvpfuB4-lWi","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

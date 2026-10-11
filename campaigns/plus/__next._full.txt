@@ -1,27 +1,28 @@
 1:"$Sreact.fragment"
-2:"/kynx-demo/_next/static/chunks/1y03nt_1bkhhy.js"
-3:I[33204,["$2"],"Shell"]
-4:I[39756,["$2"],"default"]
-5:I[37457,["$2"],"default"]
-6:I[22016,["$2"],""]
-c:I[97367,["$2"],"OutletBoundary"]
-d:"$Sreact.suspense"
-f:"ViewportBoundary"
-10:I[97367,["$2"],"$f"]
-12:"MetadataBoundary"
-13:I[97367,["$2"],"$12"]
-15:I[68027,["$2"],"default",1]
-:HL["/kynx-demo/_next/static/chunks/0ipc3ve8mtnzo.css","style"]
-8:X
-a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lb",[["$","script","script-0",{"src":"/kynx-demo/_next/static/chunks/2lh9dycg4fhby.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
-9:[["children",{"s":{"n":"id","t":"d","k":"plus","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Qa"}]]
-7:[["children",{"s":"campaigns","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
-0:{"P":null,"c":["","campaigns","plus",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kynx-demo/_next/static/chunks/0ipc3ve8mtnzo.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kynx-demo/_next/static/chunks/1y03nt_1bkhhy.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"empty-state","children":[["$","h1",null,{"children":"That record isn’t here."}],["$","p",null,{"children":"Browse the sample campaigns to find what you need."}],["$","$L6",null,{"className":"button primary","href":"/campaigns","children":"View campaigns"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/kynx-demo/_next/static/chunks/0ipc3ve8mtnzo.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"LeQahAXtYkDn3mgkHE5Po"}
-16:"/kynx-demo/_next/static/chunks/2lh9dycg4fhby.js"
-17:I[37489,["$2","$16"],"Workspace"]
-8:C
-b:["$","$L17",null,{"view":"campaign","id":"plus"}]
-11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-18:I[27201,["$2"],"IconMark"]
-e:null
-14:[["$","title","0",{"children":"Kynx · Campaign workspace"}],["$","meta","1",{"name":"description","content":"A clear view of creators, campaigns, approvals, and payments."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/kynx-demo/icon.svg?icon.0s0ehefs7qxl9.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","4",{}]]
+2:"/kynx-demo/_next/static/chunks/0umf92h1sb77c.js"
+3:"/kynx-demo/_next/static/chunks/23etsbl37p0fc.js"
+4:I[33204,["$2","$3"],"Shell"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+d:I[97367,["$2","$3"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$2","$3"],"$10"]
+13:"MetadataBoundary"
+14:I[97367,["$2","$3"],"$13"]
+16:I[68027,["$2","$3"],"default",1]
+:HL["/kynx-demo/_next/static/chunks/1xaj08dvpetv6.css","style"]
+9:X
+b:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/kynx-demo/_next/static/chunks/06t__-b26wiar.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":{"n":"id","t":"d","k":"plus","s":["detail","setup"]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qb"}]]
+8:[["children",{"s":"campaigns","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","campaigns","plus",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kynx-demo/_next/static/chunks/1xaj08dvpetv6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/kynx-demo/_next/static/chunks/0umf92h1sb77c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/kynx-demo/_next/static/chunks/23etsbl37p0fc.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"empty-state","children":[["$","h1",null,{"children":"That record isn’t here."}],["$","p",null,{"children":"Browse the sample campaigns to find what you need."}],["$","$L7",null,{"className":"button primary","href":"/campaigns","children":"View campaigns"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/kynx-demo/_next/static/chunks/1xaj08dvpetv6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"96eNNIjmykCvpfuB4-lWi"}
+17:"/kynx-demo/_next/static/chunks/06t__-b26wiar.js"
+18:I[37489,["$2","$3","$17"],"Workspace"]
+9:C
+c:["$","$L18",null,{"view":"campaign","id":"plus"}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["$2","$3"],"IconMark"]
+f:null
+15:[["$","title","0",{"children":"Kynx · Campaign workspace"}],["$","meta","1",{"name":"description","content":"A clear view of creators, campaigns, approvals, and payments."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/kynx-demo/icon.svg?icon.0s0ehefs7qxl9.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","4",{}]]

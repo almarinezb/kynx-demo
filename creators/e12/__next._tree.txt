@@ -1,5 +1,5 @@
-:HL["/kynx-demo/_next/static/chunks/0ipc3ve8mtnzo.css","style"]
+:HL["/kynx-demo/_next/static/chunks/1xaj08dvpetv6.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"id","t":"d","k":"e12","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"creators","h":96,"c":"$Q2"}]]
-0:{"b":"LeQahAXtYkDn3mgkHE5Po","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"96eNNIjmykCvpfuB4-lWi","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
