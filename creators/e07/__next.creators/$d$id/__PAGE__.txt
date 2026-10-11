@@ -1,12 +1,12 @@
 1:"$Sreact.fragment"
 2:"/kynx-demo/_next/static/chunks/0umf92h1sb77c.js"
-3:"/kynx-demo/_next/static/chunks/2hb4c5_lhuld3.js"
+3:"/kynx-demo/_next/static/chunks/3by_xs343jvvw.js"
 4:I[33204,["$2","$3"],"Shell"]
 5:I[39756,["$2","$3"],"default"]
 6:I[37457,["$2","$3"],"default"]
 7:I[22016,["$2","$3"],""]
-10:"/kynx-demo/_next/static/chunks/03d1rswqwthj3.js"
-11:"/kynx-demo/_next/static/chunks/0dtcab6ovni1v.js"
+10:"/kynx-demo/_next/static/chunks/0qfp7nva-ymol.js"
+11:"/kynx-demo/_next/static/chunks/3pll4-kqn4rq7.js"
 12:I[37489,["$2","$3","$10","$11"],"Workspace"]
 13:I[97367,["$2","$3"],"OutletBoundary"]
 14:"$Sreact.suspense"
@@ -15,14 +15,14 @@
 19:"MetadataBoundary"
 1a:I[97367,["$2","$3"],"$19"]
 1b:I[27201,["$2","$3"],"IconMark"]
-:HL["/kynx-demo/_next/static/chunks/29snxt4824ke7.css","style"]
+:HL["/kynx-demo/_next/static/chunks/1l1t4v_xlt18a.css","style"]
 9:X
 c:X
 c:C
-f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{"view":"creator","id":"e07"}],[["$","script","script-0",{"src":"/kynx-demo/_next/static/chunks/03d1rswqwthj3.js","async":true}],["$","script","script-1",{"src":"/kynx-demo/_next/static/chunks/0dtcab6ovni1v.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$9"}}]]
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{"view":"creator","id":"e07"}],[["$","script","script-0",{"src":"/kynx-demo/_next/static/chunks/0qfp7nva-ymol.js","async":true}],["$","script","script-1",{"src":"/kynx-demo/_next/static/chunks/3pll4-kqn4rq7.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$9"}}]]
 d:[["children",{"s":{"n":"id","t":"d","k":"e07","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
 a:[["children",{"s":"creators","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kynx-demo/_next/static/chunks/29snxt4824ke7.css","precedence":"next"}],["$","script","script-0",{"src":"/kynx-demo/_next/static/chunks/0umf92h1sb77c.js","async":true}],["$","script","script-1",{"src":"/kynx-demo/_next/static/chunks/2hb4c5_lhuld3.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"empty-state","children":[["$","h1",null,{"children":"That record isn’t here."}],["$","p",null,{"children":"Browse the sample campaigns to find what you need."}],["$","$L7",null,{"className":"button primary","href":"/campaigns","children":"View campaigns"}]]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kynx · Campaign workspace"}],["$","meta","1",{"name":"description","content":"A clear view of creators, campaigns, approvals, and payments."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/kynx-demo/icon.svg?icon.0s0ehefs7qxl9.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","4",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$9"}},"a":"$@1d","u":"$@1e","b":"qlOFn3UTyDDp4v9isQsrs"}
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kynx-demo/_next/static/chunks/1l1t4v_xlt18a.css","precedence":"next"}],["$","script","script-0",{"src":"/kynx-demo/_next/static/chunks/0umf92h1sb77c.js","async":true}],["$","script","script-1",{"src":"/kynx-demo/_next/static/chunks/3by_xs343jvvw.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"empty-state","children":[["$","h1",null,{"children":"That record isn’t here."}],["$","p",null,{"children":"Browse the sample campaigns to find what you need."}],["$","$L7",null,{"className":"button primary","href":"/campaigns","children":"View campaigns"}]]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kynx · Campaign workspace"}],["$","meta","1",{"name":"description","content":"A clear view of creators, campaigns, approvals, and payments."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/kynx-demo/icon.svg?icon.0s0ehefs7qxl9.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","4",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$9"}},"a":"$@1d","u":"$@1e","b":"DoZmxQrRA5Rua97G2N1Hv"}
 15:null
 9:300
 1e:true
