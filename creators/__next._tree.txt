@@ -1,4 +1,4 @@
 :HL["/kynx-demo/_next/static/chunks/0c_t2dxzqotxk.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"creators","h":96,"c":"$Q2"}]]
-0:{"b":"Gk8_bP4QnZBBhhJsYQC3D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Yc__8ahVxV8_OYxTxmu6I","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
