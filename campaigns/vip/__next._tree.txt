@@ -1,5 +1,5 @@
-:HL["/kynx-demo/_next/static/chunks/1j6rc2r7inuqz.css","style"]
+:HL["/kynx-demo/_next/static/chunks/2lciwi3bhm-gt.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"id","t":"d","k":"vip","s":["detail","setup"]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"campaigns","h":96,"c":"$Q2"}]]
-0:{"b":"4Us6OzL6ZZyx1ObB_zNZO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"i0xm_gWnmIScfdI7wf0SZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
